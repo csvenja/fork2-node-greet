@@ -1,4 +1,4 @@
-var greet = require("greet");
+var greet = require("../lib/index.js");
 
 // var expect = require("chai").expect
 describe('greet', function() {
